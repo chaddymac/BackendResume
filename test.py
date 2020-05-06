@@ -11,9 +11,11 @@ import json
     #need add to pipeline python3 -m unittest test.py
 
 
-def test_lambda_handler(self):
+def test_lambda_handler():
     res_api = lambda_handler('a', 'b')
-    self.assertEqual(res_api['statusCode'],200,msg=None)
+    assert res_api["statusCode"] == 200
+    
+
 
 # def test_lambda_handler(apigw_event, mocker):
 
