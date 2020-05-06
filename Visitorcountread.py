@@ -2,6 +2,7 @@ import json
 import boto3
 
 region_name = "us_east_2"
+
 def lambda_handler(event, context):
 #calling dynamondb
     dynamodb = boto3.client('dynamodb')
