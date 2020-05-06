@@ -1,11 +1,11 @@
 import json
 import boto3
 
-region_name = "us_east_2"
+region_name = "us-east-2"
 
 def lambda_handler(event, context):
 #calling dynamondb
-    dynamodb = boto3.client('dynamodb')
+    dynamodb = boto3.client('dynamodb', region_name=region_name)
 #getting the dictionary for the Visitorcount table
     response=dynamodb.get_item(
         TableName='Visitorcount', 
