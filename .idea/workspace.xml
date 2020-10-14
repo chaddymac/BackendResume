@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f7de3e7-70c2-4332-9e88-65276abd17c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/backendresumego.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/counter_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice2_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/pythonapp.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Visitorcountread.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/events/event.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlresume-stack/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/samconfig.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/unit/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visitor_count/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/visitor_count/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/visitor_count/requirements.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="4f7de3e7-70c2-4332-9e88-65276abd17c3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
