@@ -27,3 +27,8 @@ def test_lambda_handler():
 
 
     # assert "location" in data.dict_keys()
+
+
+
+if __name__ == "__main__":
+    lambda_handler()
